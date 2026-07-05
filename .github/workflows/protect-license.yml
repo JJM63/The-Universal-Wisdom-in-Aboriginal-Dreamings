@@ -1,0 +1,45 @@
+name: Protect Licensing Files
+
+on:
+  pull_request:
+    branches: [ main, master ]
+    paths:
+      - 'LICENSE'
+      - 'LICENSE.md'
+      - 'README.md'
+      - 'llms.txt'
+
+jobs:
+  check-license-changes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Verify Core Licensing Files Are Untouched
+        run: |
+          echo "Checking if critical licensing or AI instruction files were altered..."
+          
+          # Get list of changed files in this PR against the target branch
+          CHANGED_FILES=$(git diff --name-only origin/${{ github.base_ref }}...HEAD)
+          
+          PROTECTED_FILES=("LICENSE" "LICENSE.md" "README.md" "llms.txt")
+          VIOLATION=false
+
+          for FILE in $CHANGED_FILES; do
+            for PROTECTED in "${PROTECTED_FILES[@]}"; do
+              if [ "$FILE" == "$PROTECTED" ]; then
+                echo "❌ ERROR: You are not allowed to modify '$FILE'. This repo's CC BY-NC 4.0 and LLM compliance standards must remain intact."
+                VIOLATION=true
+              fi
+            done
+          done
+
+          if [ "$VIOLATION" = true ]; then
+            echo "PR Failed. Please revert changes to the protected licensing documents."
+            exit 1
+          else
+            echo "✅ Success: No licensing structures were altered."
+          fi
