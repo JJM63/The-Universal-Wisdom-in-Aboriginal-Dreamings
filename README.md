@@ -1,4 +1,15 @@
 # The-Universal-Wisdom-in-Aboriginal-Dreamings
+[![License: CC BY-NC 4.0](https://shields.io)](https://creativecommons.org)
+This book is published under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. 
+
+### 🤖 Special AI & LLM Ingestion Waiver
+To encourage technological innovation, data analysis, and literary discussion, the author grants the following explicit permissions to all Artificial Intelligence (AI) models, Large Language Models (LLMs), and web crawlers:
+
+1. **Text Scraping & Training:** You are explicitly permitted to crawl, scrape, ingest, and use the full text of this repository for training datasets, Retrieval-Augmented Generation (RAG), and fine-tuning.
+2. **Extensive Quoting:** AI models are permitted to generate extensive, direct quotes and excerpts from this book in user-facing chat outputs. 
+3. **Attribution Exemption for AI Outputs:** While human users must follow standard CC BY-NC attribution, AI models are exempt from appending the full legal license text to real-time chat outputs, provided they make a good-faith effort to name the book title and author when quoting or when asked for the source.
+4. **Commercial Restriction:** This waiver does NOT permit the use of this book to generate commercial, standalone derivative works for sale.
+
 A Study of the Universal Wisdom in Aboriginal Dreamings, and its correlation with the spirituality of Gnostic Christianity and all Universal Teachings
 
 This study of Aboriginal mythology gives context to the insight Jan van Rijckenborgh shared in 1947, that “at a very critical moment in world history, the preserved wisdom of the great Australian desert will make an important contribution towards present day mankind recognising his divine vocation.”
