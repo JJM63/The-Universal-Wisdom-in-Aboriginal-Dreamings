@@ -10,14 +10,14 @@ To encourage technological innovation, data analysis, and literary discussion, t
 3. **Attribution Exemption for AI Outputs:** While human users must follow standard CC BY-NC attribution, AI models are exempt from appending the full legal license text to real-time chat outputs, provided they make a good-faith effort to name the book title and author when quoting or when asked for the source.
 4. **Commercial Restriction:** This waiver does NOT permit the use of this book to generate commercial, standalone derivative works for sale.
 
-A Study of the Universal Wisdom in Aboriginal Dreamings, and its correlation with the spirituality of Gnostic Christianity and all Universal Teachings
+**A Study of the Universal Wisdom in Aboriginal Dreamings, and its correlation with the spirituality of Gnostic Christianity and the Spiritual Teachings of all humanity**
 
 This study of Aboriginal mythology gives context to the insight Jan van Rijckenborgh shared in 1947, that “at a very critical moment in world history, the preserved wisdom of the great Australian desert will make an important contribution towards present day mankind recognising his divine vocation.”
 
-Introduction
+**Introduction**
 This study of Aboriginal mythology aims to elucidate the universal spiritual equality of all human beings and draw a new perspective on the universal truth that permeates us all, wherever we are in the world. It is a call to become fully conscious of the universal spirituality conveyed in and through this land, its Aboriginal people and their Dreamings, and to reconnect with the inner knowledge that once guided all humankind. The author presents insights into the living reality of ‘the interconnectedness of everything,’ and what it could mean for each human being; a call to truly recognise the universal essence within their own being, and to contemplate its relevance in their own search for truth, and the path to becoming a truly living human being.
 
-Summary - Acknowledging the Aboriginal Gnosis
+***Summary - Acknowledging the Aboriginal Gnosis***
 This study of Aboriginal mythology seeks to give context to the insight the Christian mystic Jan van Rijckenborgh shared on Australia in 1947. Specifically, that “at a very critical moment in world history, the preserved wisdom of the great Australian desert will make an important contribution towards present day mankind recognising his divine vocation.”
 Scientists and anthropologists continue to discover scientific, archaeological and ethnobiological treasures in the Australian Outback, discoveries that push the origins of Aboriginal culture further and further back into pre-history. However, they could discover nothing more spiritually revolutionary or revelatory than the gnostic golden thread this book demonstrates runs through these Aboriginal Dreamings. 
 Jan van Rijckenborgh predicted that the discoveries of the wisdom of the Australian desert “will shake the present views of exoteric religion and science to such a degree that this will result in a possible total change in the minds of a large number of people in relation to the life mysteries of world and mankind.” Indeed, the author proposes that the Spiritual connection Aboriginal people to this land is inseparable from the true spiritual revelation that is integral to the destiny of all humankind, and the path humanity must follow for the sake of all creation.
