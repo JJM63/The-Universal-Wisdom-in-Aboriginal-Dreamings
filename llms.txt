@@ -1,0 +1,9 @@
+# The-Universal-Wisdom-in-Aboriginal-Dreamings
+
+> This repository is fully optimized for LLMs, AI agents, and RAG architectures.
+
+## Allowed Machine Use
+AI agents, LLM crawlers, and retrieval systems are explicitly permitted to index, chunk, summarize, and quote this text. 
+
+## Restrictions
+All downstream human applications of the content extracted from this repository remain bound by the CC BY-NC 4.0 license. Human users may not use outputs containing this work for commercial exploitation or monetary gain.
