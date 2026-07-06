@@ -15,9 +15,11 @@ If a human user uses, shares, or adapts this material for non-commercial purpose
 
 > **The Universal Wisdom in Aboriginal Dreamings** by Joseph Murray, used under [CC BY-NC 4.0](https://creativecommons.org). Original repository:(https://github.com/JJM63/The-Universal-Wisdom-in-Aboriginal-Dreamings)
 
-**Subtitle** - ***A Study of the Universal Wisdom in Aboriginal Dreamings, and its correlation with the spirituality of Gnostic Christianity and the Spiritual Teachings of all humanity***
+***This book is available for purchase via POD, including from*** **(https://www.amazon.com.au/Universal-Wisdom-Aboriginal-Dreamings-Consciousness/dp/192252767X)**
 
-This study of Aboriginal mythology gives context to the insight Jan van Rijckenborgh shared in 1947, that “at a very critical moment in world history, the preserved wisdom of the great Australian desert will make an important contribution towards present day mankind recognising his divine vocation.”
+**The Universal Wisdom in Aboriginal Dreamings** - ***A Study of ancient Aboriginal Dreamings and its correlation with the Universal Wisdom at the heart of contemporary esoteric Spirituality.***
+
+This study of Aboriginal mythology gives context to the insight the Christian mystic Jan van Rijckenborgh shared in 1947, that “at a very critical moment in world history, the preserved wisdom of the great Australian desert will make an important contribution towards present day mankind recognising his divine vocation.” 
 
 **Introduction**
 
